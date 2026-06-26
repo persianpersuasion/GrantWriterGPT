@@ -1,4 +1,4 @@
-# GrantWriterGPT
+# Grant Writer GPT
 
 ## Project Overview
 
